@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{DA7A21FA-8162-4350-AD77-A8D1B671F3ED}") = "Week1Quiz", "Week1Quiz\Week1Quiz.rxproj", "{9EF64632-2802-4CE1-80E9-4B34C76A8612}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EF64632-2802-4CE1-80E9-4B34C76A8612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF64632-2802-4CE1-80E9-4B34C76A8612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF64632-2802-4CE1-80E9-4B34C76A8612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EF64632-2802-4CE1-80E9-4B34C76A8612}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E6EA2DD-A246-4F4B-A283-7A2D5909FC02}
+	EndGlobalSection
+EndGlobal
